@@ -1,2 +1,7 @@
 File1 von fabiant
+<<<<<<< HEAD
 file1 geändert, in branch main, nach Änderungen von file1 in brach checkout
+=======
+
+in branch feature1 Datei geändert
+>>>>>>> feature1
